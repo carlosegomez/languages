@@ -1,2 +1,9 @@
+#Java
 *.class
 *.jar
+
+#Rust
+debug/
+target/
+Cargo.lock
+**/*.rs.bk
